@@ -4,7 +4,7 @@ branches:
     
 environment:
   access_token:
-    secure: ce21a9ade8ac5c5813f90b2b493150f41ca4e421e7929ba38dc1ac0df766ef08
+    secure: d3e72b9b4905097c85a307d14b56750ffff7cd39
 
 # Temporarily needed until curl added to PATH
 # See http://help.appveyor.com/discussions/problems/6312-curl-command-not-found

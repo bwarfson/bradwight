@@ -8,3 +8,4 @@ Tags:
 <p>Understanding the MVC request lifecycle can help developers better utilize the available features of the MVC framework. This post has my high level notes on Application lifecycle and the Request lifecycle.</p>
 
 
+<p>I need to put some images in here</p>
