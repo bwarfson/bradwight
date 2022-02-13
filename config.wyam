@@ -1,5 +1,0 @@
-Settings[Keys.Host] = "bradwight.com";
-Settings[Keys.LinksUseHttps] = true;
-Settings[BlogKeys.Title] = "Brad Wight";
-Settings[BlogKeys.Description] = "The personal blog of Brad Wight";
-Settings[BlogKeys.Intro] = "";
